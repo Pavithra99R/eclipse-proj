@@ -7,7 +7,7 @@
 <title>Products</title>
 </head>
 <body>
-<h1>Vanakam</h1>
+<h1>Namaste</h1>
 
 </body>
 </html>
