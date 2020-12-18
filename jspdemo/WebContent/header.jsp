@@ -33,9 +33,9 @@ ul li a:hover {
 <body>
 
 <ul>
-	<li>Home</li>
+	<li>Welcome</li>
 	<li>Products</li>
-	<li>Services</li>
+	<li>Login</li>
 	<li>Contact</li>
 </ul>
 
