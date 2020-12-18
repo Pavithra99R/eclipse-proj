@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h1>Namaste</h1>
+<h1>Magi</h1>
 
 </body>
 </html>
